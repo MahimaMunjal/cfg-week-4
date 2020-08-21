@@ -1,0 +1,40 @@
+.box1 {
+    background-color:black;
+    height:200px ;
+}
+h1{
+    color: white;
+    display: flex;
+    padding-top: 150px;
+    justify-content: center;
+}
+.box2{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.box4{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.box3{
+    background-color:rgb(241, 182, 55);
+    height: 275px;
+    width: 700px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+.box5{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+
+
